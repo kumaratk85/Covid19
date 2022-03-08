@@ -1,0 +1,10 @@
+[
+    {
+        "srcRelativeURL":"Kumaratk85/Covid19/blob/03011fd9de2a0bde226ab0c071f2ba96e42adb56/ecdc_data/cases_deaths.csv",
+        "TgtFileName":"cases_deaths.csv"
+    },
+    {
+        "srcRelativeURL":"Kumaratk85/Covid19/blob/03011fd9de2a0bde226ab0c071f2ba96e42adb56/ecdc_data/country_response.csv",
+        "TgtFileName":"country_response.csv"
+    }
+]
